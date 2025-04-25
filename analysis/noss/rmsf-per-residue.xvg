@@ -1,0 +1,63 @@
+# This file was created Sun Apr 20 00:59:44 2025
+# Created by:
+#                :-) GROMACS - gmx rmsf, 2022.5-plumed_2.8.2 (-:
+# 
+# Executable:   /opt/gromacs/gromacs.AVX2_256/bin/gmx
+# Data prefix:  /opt/gromacs/gromacs.AVX2_256
+# Working dir:  /home/domain/vdovina/g4/berberine/well_eq_run/try/no
+# Command line:
+#   gmx rmsf -f prod_run_or.xtc -s prod_run.tpr -res -o rmsf-per-residue.xvg
+# gmx rmsf is part of G R O M A C S:
+#
+# Gravel Rubs Often Many Awfully Cauterized Sores
+#
+@    title "RMS fluctuation"
+@    xaxis  label "Residue"
+@    yaxis  label "(nm)"
+@TYPE xy
+    1   0.1279
+    2   0.1114
+    3   0.0991
+    4   0.0495
+    5   0.0641
+    6   0.0595
+    7   0.1299
+    8   0.1016
+    9   0.0542
+   10   0.0593
+   11   0.0683
+   12   0.1086
+   13   0.0609
+   14   0.1089
+   15   0.0989
+   16   0.0929
+   17   0.0971
+   18   0.1383
+   19   0.1160
+   20   0.1073
+   21   0.0845
+   22   0.0972
+   23   0.1208
+   24   0.0840
+   25   0.0913
+   26   0.0562
+   27   0.0754
+   28   0.1161
+   29   0.2111
+   30   0.0684
+   31   0.0726
+   32   0.0626
+   33   0.1251
+   34   0.1131
+   35   0.1090
+   36   0.1328
+   37   0.1482
+   38   0.1769
+   39   0.2065
+   40   0.1534
+   41   0.1195
+   42   0.1354
+   43   0.1589
+   44   0.1023
+   45   0.0945
+   46   0.1109
